@@ -23,7 +23,8 @@ The system allows you to add patients, manage waiting lists, treat patients (Nor
 
 ### Main Interface
 
-<img width="1599" height="899" alt="hospital" src="https://github.com/user-attachments/assets/49016034-b38e-407e-9139-27a4ea983bfc" />
+<img width="1599" height="899" alt="hospital" src="https://github.com/user-attachments/assets/49016034-b38e-407e-9139-27a4ea983bfc" />![elshaer](https://github.com/user-attachments/assets/61c650d6-53de-4a80-945c-9f4ea12afabb)
+
 
 
 > Place actual screenshots in the screenshots folder and update the file names if necessary.
